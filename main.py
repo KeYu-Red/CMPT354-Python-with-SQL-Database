@@ -2,12 +2,7 @@
 #
 # For testing SQL Server connection in CSIL through pyodbc connection (using SQL Server standard login)
 #
-# Author: Johnny Zhang
-#
 # You should run this program on a CSIL system. (verified with Python 3.6.2 64bit)
-#
-# Last modified @ 2018.03.27
-#
 #
 # Please modify this program before using.
 #
